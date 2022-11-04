@@ -2,7 +2,6 @@
 This is a project from Udacity's Full Stack Web Developer Track.
 
 The application must:
-
 - View a graphical representation of each drink's ingredient ratios.
 - Allow public users to view drink graphics and names.
 - Allow servers to see recipe information.
