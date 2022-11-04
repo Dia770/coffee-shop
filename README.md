@@ -1,6 +1,13 @@
 # Coffee Shop Full Stack
 This is a project from Udacity's Full Stack Web Developer Track.
 
+The application must:
+
+- View a graphical representation of each drink's ingredient ratios.
+- Allow public users to view drink graphics and names.
+- Allow servers to see recipe information.
+- Allow store managers to create new drinks and edit drinks
+
 ## Full Stack Nano - IAM Final Project
 
 Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
